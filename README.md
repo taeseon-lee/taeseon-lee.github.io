@@ -29,3 +29,8 @@ git remote add origin https://gitlab.com/dlxotjssla/taeseon_test.git
 git remote add origin https://github.com/taeseon-lee/taeseon-lee.github.io/
 git push -u origin --all
 git push -u origin --tags
+
+git stash
+git stash list
+git stash apply
+git stash drop
