@@ -34,3 +34,5 @@ git stash [save]
 git stash list
 git stash apply
 git stash drop
+
+git remote set-url origin https://github.com/user/repo2.git
