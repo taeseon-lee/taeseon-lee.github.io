@@ -1,5 +1,6 @@
 # taeseon-lee.github.io
 
+5a5e5852a932dc43ea1b8653c4630d7343ab12fe
 Git global setup
 git config --global user.name "taeseon_lee"
 git config --global user.email "dlxotjssla@gmail.com"
@@ -36,3 +37,6 @@ git stash apply
 git stash drop
 
 git remote set-url origin https://github.com/user/repo2.git
+
+git pull origin master --allow-unrelated-histories
+git push -u origin master
